@@ -1,0 +1,2 @@
+# edgetpu_model_converter
+keras(tensorflow)モデルをedgetpuモデルに変換する方法
